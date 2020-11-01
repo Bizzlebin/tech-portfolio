@@ -3,12 +3,6 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+One of my recent projects was a parser for the UEWSG (Uniform English Writing Style Guide): it takes plaintext and turns it into compliant HTML5, with support for half of the block constrcuts as of version 0.1.0 .
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![Screenshot of UEWSG Parser 0.1.0 app deployed on Heroku.](./assets/uewsg_parser_screenshot.png)
